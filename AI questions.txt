@@ -1,0 +1,54 @@
+1. meta
+2. Google
+3. Antrophic
+4. xAI
+5. 
+6. OpenAI
+7. AI generated video
+8. Google
+9. 
+10. code generation
+
+11. Large Language Model
+12. AI that creates new content text,images,audio,video and code.
+13. An instruction and input given to AI model
+14. instruction that control AI behaviour
+15. 
+16. 
+17. Small Units Of Text processed by an LLM
+18. Amount Of Information
+19. 
+20. Trainning a pre-trained model for a specific task
+
+21. AI that can paln use tools and performance tasks
+22. chatbot respond and agent can take actions
+23. 
+24. model context protocol
+25. Authenticates access to an AI service
+26. Limits API request within a given time
+27. AI powered code editor
+28. Works with users documents and sourcres
+29. 
+30.  code generation debugging and test case creation
+
+31. Converts voice into written words
+32. converts written text into voice 
+33. extract text from images 
+34. AI that understands images and visual data
+35. creates videos from text description 
+36. 
+37. 
+38. Neural Processing Unit
+39. stores AI model data and calculation for the GPU 
+40. Running an AI model Directly on your own computer
+
+41. AI model whose weights are publicly available 
+42. smaller model learns from large model
+43. efficient method for fine tunning AI models
+44. MIxture of Experts
+45. Test used to compare AI models 
+46. 
+47. instruction used to manipulate
+48. personally identified information
+49. should not be shared publicly due to security 
+50. verify important from trusted sources
